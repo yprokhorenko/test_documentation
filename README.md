@@ -11,7 +11,8 @@
 ## 📂 Структура репозиторію
 ```bash
 test_documentation/
-├── 📂 1_Test_Plans/          # Тест-плани (.docx, .md)
-├── 📂 2_Test_Cases/          # Тест-кейси (.xlsx, .csv)
-├── 📂 3_Checklists/          # Чек-листи (.md, .xlsx)
-├── 📂  [3. Bug Reports](https://github.com/yprokhorenko/test_documentation/tree/main/3.%20Bug%20reports) — Баг репорти з img
+
+├── 📂 1_Test_Cases/         [xlsx, csv]
+├── 📂 2_Checklists/         [md, xlsx]
+├── 📂 3_Bug_Reports/        [img]
+├── 📂 4_Test_Plans/         [docx, md]
