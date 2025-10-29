@@ -8,7 +8,7 @@
 
 
 
-## 📂 Структура репозиторію
+## 📂 Repository structure
 ```bash
 test_documentation/
 
